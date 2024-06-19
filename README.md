@@ -1,6 +1,7 @@
 # My rofi config (Stolen btw)
 
 This my configuration for rofi!
+<img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Hyprland-Dots-Showcase/rofi.png" />
 
 ## Instalation
 
@@ -13,7 +14,7 @@ For fedora:
 sudo dnf install rofi
 ```
 For arch idk! search it up
-
+==========================
 After installing rofi run:
 ```bash
 git clone https://github.com/Mathew321/rofi-config.git
