@@ -1,7 +1,8 @@
 # My rofi config (Stolen btw)
 
 This my configuration for rofi!
-<img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Hyprland-Dots-Showcase/rofi.png" />
+
+<img align="center" width="100%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Hyprland-Dots-Showcase/rofi.png" />
 
 ## Instalation
 
